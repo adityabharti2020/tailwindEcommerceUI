@@ -45,6 +45,60 @@ export const DASHBOARD_SIDEBAR_LINKS = [
 		label: 'Messages',
 		path: '/messages',
 		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
+	},
+	{
+		key: 'messages',
+		label: 'Messages',
+		path: '/messages',
+		icon: <HiOutlineAnnotation />
 	}
 ]
 
