@@ -10,7 +10,7 @@ const linkClass =
 export default function Sidebar(){
     return (
         <div className="flex flex-col bg-cyan-950 text-white w-80 p-1 ">
-            <div className="flex items-center gap-2 px-1 py-3">
+            <div className="flex items-center gap-2 px-1 py-3 ">
                 <AiFillWechat fontSize={35}/>
                 <span className="text-2xl">ChatApp</span>
             </div>
